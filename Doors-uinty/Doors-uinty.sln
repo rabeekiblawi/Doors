@@ -1,19 +1,26 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doors-uinty.Plugins", "Doors-uinty.Plugins.csproj", "{88AE0B9A-F849-9AD0-DEE5-BEC90193A2A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doors-uinty", "Doors-uinty.csproj", "{95573A69-FCA8-E3C8-1103-C991224CA8EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{88AE0B9A-F849-9AD0-DEE5-BEC90193A2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AE0B9A-F849-9AD0-DEE5-BEC90193A2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AE0B9A-F849-9AD0-DEE5-BEC90193A2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AE0B9A-F849-9AD0-DEE5-BEC90193A2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95573A69-FCA8-E3C8-1103-C991224CA8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95573A69-FCA8-E3C8-1103-C991224CA8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95573A69-FCA8-E3C8-1103-C991224CA8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95573A69-FCA8-E3C8-1103-C991224CA8EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
