@@ -11,3 +11,5 @@
 *.csproj
 /Doors-uinty/.vs/Doors-uinty/v15/Server/sqlite3
 *.meta
+*.suo
+*.dtbcache
